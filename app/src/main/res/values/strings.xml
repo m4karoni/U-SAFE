@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">U-SAFE</string>
+    <string name="slogan">Monitors your safety</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="welcome_on_board">Welcome On Board!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="set_email">Set Email</string>
+    <string name="set_password">Set Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+</resources>
